@@ -53,7 +53,6 @@ Welcome to my data portfolio! Here are several of my projects completed in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🦄 [Maven Unicorn Challenge](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
 | 🦠 [Covid-19 and Its Impact on Global Population](https://github.com/Nixonnzh/covid_project_snowflake) | I extracted Covid-19 data from [Our World in Data's Github](https://github.com/owid/covid-19-data/tree/master/public/data) & analyzed its global impact from Jan 2020 to Feb 2024 from a socioeconomic standpoint, using SQL and Power BI. | [Dashboard](https://app.powerbi.com/groups/me/dashboards/53c8af61-7e22-4bd1-af79-a1c41f0b57f1?experience=power-bi) |
 
 ***
