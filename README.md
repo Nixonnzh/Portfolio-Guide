@@ -7,7 +7,7 @@ Welcome to my data portfolio! Here are several of my projects completed in the d
 - [Data Science](#data-science)
 - [SQL](#sql)
 - [Python](#python)
-- [PowerBI](#powerbi)
+- [Visualizations](#visualizations)
 
 # Data Engineering
 
@@ -24,7 +24,7 @@ Welcome to my data portfolio! Here are several of my projects completed in the d
 |---|---|---|---|
 | 🏠 [London Airbnb](https://github.com/Nixonnzh/CUoL-Data-Science-Degree/blob/main/Project%201%20-%20Analyzing%20Airbnb%20Performance.ipynb) | Dec 2024 |Python, Jupyter Notebook, Tableau | Extracted, transformed and engineered new features for London Airbnb dataset to visualize Airbnb listings' performance in different areas of London. Also compare the predictive capabilities of ML models (Linear Regression, Random Forest) on Airbnb performance metrices. |
 | 💊 [NHANES Health Survey](https://github.com/Nixonnzh/CUoL-Data-Science-Degree/blob/main/Project%203%20-%20Age%20Prediction%20using%20Health%20Information.ipynb) | Dec 2024 | Python, Jupyter Notebook | Using NHANES respondent's health and nutritional information, I predicted age groups and compare the predictive capabilities of 2 Supervised-Learning Machine Learning (ML) models: Decision Tree and Random Forest. |
-| 👨🏻‍💼 [Sentiment Analysis](https://github.com/Nixonnzh/edgar-project-nn) | Mar 2023 | Python, Jupyter Notebook, Power BI | Developed and automated a sentiment analysis algorithm to predict S&P500 companies stock price trends. The pipeline encompassed extracting Key Financial Data from SEC Filings using edgar-crawler, categorizing positive/negative sentiments using Python, comparing majority sentiment with stock price trends, and ultimately creating a dashboard using Power BI. |
+| 👨🏻‍💼 [Sentiment Analysis](https://github.com/Nixonnzh/edgar-project-nn) | Mar 2023 | Python, Jupyter Notebook, Power BI | Developed and automated a sentiment analysis algorithm to predict S&P500 companies stock price trends. The pipeline encompassed extracting Key Financial Data from SEC Filings using edgar-crawler, categorizing positive/negative sentiments using Python, comparing majority sentiment with stock price trends. |
 
 ***
 
@@ -49,10 +49,11 @@ Welcome to my data portfolio! Here are several of my projects completed in the d
 
 ***
 
-# PowerBI
+# Visualizations
 
-| Project Link | Project Description | Dashboard Link |
-|---|---|---|
-| 🦠 [Covid-19 and Its Impact on Global Population](https://github.com/Nixonnzh/covid_project_snowflake) | I extracted Covid-19 data from [Our World in Data's Github](https://github.com/owid/covid-19-data/tree/master/public/data) & analyzed its global impact from Jan 2020 to Feb 2024 from a socioeconomic standpoint, using SQL and Power BI. | [Dashboard](https://app.powerbi.com/groups/me/dashboards/53c8af61-7e22-4bd1-af79-a1c41f0b57f1?experience=power-bi) |
+| Project Link | Project Description | Tools | Dashboard Link |
+|---|---|---|---|
+| 🏠 [London Airbnb](https://github.com/Nixonnzh/CUoL-Data-Science-Degree/blob/main/Project%201%20-%20Analyzing%20Airbnb%20Performance.ipynb) | Extracted, transformed and engineered new features for London Airbnb dataset to visualize Airbnb listings' performance in different areas of London. Also predicted Airbnb performance metrics using ML methods (Linear Regression, Random Forest) and visualize the London market's KPIs using Tableau. | Tableau | [Dashboard](https://public.tableau.com/app/profile/nixon.ng/viz/LondonAirbnbMarketanditsKPIs/Dashboard1) |
+| 🦠 [Covid-19 and Its Impact on Global Population](https://github.com/Nixonnzh/covid_project_snowflake) | I extracted Covid-19 data from [Our World in Data's Github](https://github.com/owid/covid-19-data/tree/master/public/data) & analyzed its global impact from Jan 2020 to Feb 2024 from a socioeconomic standpoint, using SQL and Power BI. | PowerBI | [Dashboard](https://app.powerbi.com/groups/me/dashboards/53c8af61-7e22-4bd1-af79-a1c41f0b57f1?experience=power-bi) |
 
 ***
