@@ -13,8 +13,8 @@ Welcome to my data portfolio! Here are several of my projects completed in the d
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 📑 [Retail Survey Data](https://github.com/Nixonnzh/john_lewis_project_nn/tree/main) | Apr 2023 | Python, SQL, Snowflake | Developed and implemented an end-to-end ETL pipeline as a Python/Snowflake package to process Retail Consumer Survey Data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Snowflake. This resulted in a cleaned, tailor-made data model hosted in Snowflake as a Data Warehouse for the client. |
-| 🗂️ [Insurance Data](https://github.com/Nixonnzh/zurich_bdx_nn/tree/main) | Jun 2024 | Python, SQL, Github, Snowflake | Developed and implemented an end-to-end ETL pipeline using Github Actions and Snowflake tools to build/deploy an automated, time-based system in processing Insurance Client Data. This resulted in the client integrating this product for their data processes. |
+| 📑 Retail Survey Data (Visibility: Private) | Apr 2023 | Python, SQL, Snowflake | Developed and implemented an end-to-end ETL pipeline as a Python/Snowflake package to process Retail Consumer Survey Data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Snowflake. This resulted in a cleaned, tailor-made data model hosted in Snowflake as a Data Warehouse for the client. |
+| 🗂️ [Insurance Data](https://github.com/Nixonnzh/project-bdx-nn) | Jun 2024 | Python, SQL, Github, Snowflake | Developed and implemented an end-to-end ETL pipeline using Github Actions and Snowflake tools to build/deploy an automated, time-based system in processing Insurance Client Data. This resulted in the client integrating this product for their data processes. |
 
 ***
 
@@ -32,7 +32,7 @@ Welcome to my data portfolio! Here are several of my projects completed in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🏦 [Bank Customer Analysis](https://github.com/Nixonnzh/banking-project-sql/tree/main) | Banking Analysis  | Analysis on customer and banking transaction data to uncover insights that can help a retail bank improve its services. The focus is on identifying key customer segments, understanding spending patterns, and distinguishing between profitable and risky customers. The goal is to provide data-driven recommendations to enhance decision-making for customer retention, risk assessment, and financial planning. | 
+| 🏦 [Bank Customer Analysis](https://github.com/Nixonnzh/banking-project-sql) | Banking Analysis  | Analysis on customer and banking transaction data to uncover insights that can help a retail bank improve its services. The focus is on identifying key customer segments, understanding spending patterns, and distinguishing between profitable and risky customers. The goal is to provide data-driven recommendations to enhance decision-making for customer retention, risk assessment, and financial planning. | 
 | 🦠 [Covid-19 and Its Impact on Global Population](https://github.com/Nixonnzh/covid_project_snowflake) | Data cleaning, data warehousing, data analysis | I extracted Covid-19 data from [Our World in Data's Github](https://github.com/owid/covid-19-data/tree/master/public/data) & analyzed its global impact from Jan 2020 to Feb 2024 from a socioeconomic standpoint, using SQL and Power BI. |  
 
 ***
